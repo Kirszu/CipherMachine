@@ -1,0 +1,16 @@
+/* 
+    Created on : Jul 16, 2017, 6:29:08 PM
+    Author     : marcin.kirsz
+*/
+
+.root{
+    -fx-background-color: #455A64;
+    -fx-base: #90A4AE;
+    -fx-text-inner-color: #455A64;
+    -fx-font-size: 16px;
+  
+}
+
+.button {
+    -fx-text-fill: #CFD8DC;
+}
